@@ -1,0 +1,5 @@
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Service\bin\Debug\QuanLyNhanVien.Service.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Service\bin\Debug\QuanLyNhanVien.Service.pdb
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Service\obj\Debug\QuanLyNhanVien.Service.csprojAssemblyReference.cache
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Service\obj\Debug\QuanLyNhanVien.Service.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Service\obj\Debug\QuanLyNhanVien.Service.pdb

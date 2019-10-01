@@ -1,0 +1,11 @@
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\QuanLyNhanVien.Common.dll.config
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\QuanLyNhanVien.Common.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\QuanLyNhanVien.Common.pdb
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\EntityFramework.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\EntityFramework.xml
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\obj\Debug\QuanLyNhanVien.Common.csprojAssemblyReference.cache
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\obj\Debug\QuanLyNhanVien.Common.csproj.CopyComplete
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\obj\Debug\QuanLyNhanVien.Common.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Common\obj\Debug\QuanLyNhanVien.Common.pdb

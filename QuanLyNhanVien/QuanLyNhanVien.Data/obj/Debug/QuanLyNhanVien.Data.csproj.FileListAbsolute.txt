@@ -1,0 +1,13 @@
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\QuanLyNhanVien.Data.dll.config
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\QuanLyNhanVien.Data.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\QuanLyNhanVien.Data.pdb
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\EntityFramework.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\EntityFramework.xml
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.csprojAssemblyReference.cache
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.csproj.CopyComplete
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.dll
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.pdb
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.Migrations.CreatetableEmployeSalary.resources
+D:\ProjectQLNV\QuanLyNhanVien\QuanLyNhanVien.Data\obj\Debug\QuanLyNhanVien.Data.csproj.GenerateResource.cache
